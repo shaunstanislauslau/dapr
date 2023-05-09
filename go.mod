@@ -8,7 +8,7 @@ require (
 	github.com/Sirupsen/logrus v1.0.6
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/dapr/components-contrib v0.0.0-20191014200624-99461da9580e
-	github.com/emicklei/go-restful v2.10.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/evanphx/json-patch v4.2.0+incompatible // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/jsonreference v0.19.3 // indirect
