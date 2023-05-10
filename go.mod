@@ -25,8 +25,6 @@ require (
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/json-iterator/go v1.1.7
 	github.com/kelseyhightower/envconfig v1.4.0
-	github.com/klauspost/compress v1.5.0 // indirect
-	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/miekg/dns v1.0.14 // indirect
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1
@@ -38,7 +36,7 @@ require (
 	github.com/qiangxue/fasthttp-routing v0.0.0-20160225050629-6ccdc2a18d87
 	github.com/sirupsen/logrus v1.2.0 // indirect
 	github.com/stretchr/testify v1.4.0
-	github.com/valyala/fasthttp v1.4.0
+	github.com/valyala/fasthttp v1.34.0
 	go.opencensus.io v0.22.1
 	gonum.org/v1/gonum v0.0.0-20190911200027-40d3308efe80 // indirect
 	google.golang.org/grpc v1.24.0
