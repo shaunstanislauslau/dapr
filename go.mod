@@ -16,8 +16,8 @@ require (
 	github.com/go-ozzo/ozzo-routing v2.1.4+incompatible // indirect
 	github.com/gogo/protobuf v1.3.0 // indirect
 	github.com/golang/gddo v0.0.0-20190815223733-287de01127ef // indirect
-	github.com/golang/protobuf v1.3.2
-	github.com/google/uuid v1.1.1
+	github.com/golang/protobuf v1.5.2
+	github.com/google/uuid v1.3.0
 	github.com/googleapis/gnostic v0.3.1 // indirect
 	github.com/gorilla/mux v1.7.1
 	github.com/grandcat/zeroconf v0.0.0-20190424104450-85eadb44205c
@@ -37,13 +37,13 @@ require (
 	github.com/phayes/freeport v0.0.0-20171002181615-b8543db493a5
 	github.com/qiangxue/fasthttp-routing v0.0.0-20160225050629-6ccdc2a18d87
 	github.com/sirupsen/logrus v1.2.0 // indirect
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.8.1
 	github.com/valyala/fasthttp v1.4.0
-	go.opencensus.io v0.22.1
+	go.opencensus.io v0.24.0
 	gonum.org/v1/gonum v0.0.0-20190911200027-40d3308efe80 // indirect
-	google.golang.org/grpc v1.24.0
+	google.golang.org/grpc v1.53.0
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.3
 	k8s.io/api v0.0.0-20190819141258-3544db3b9e44
 	k8s.io/apimachinery v0.0.0-20190817020851-f2f3a405f61d
 	k8s.io/client-go v0.0.0-20190620085101-78d2af792bab
